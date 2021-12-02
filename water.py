@@ -6,4 +6,4 @@ if(__name__=="__main__"):
         message = '''Benefits of drinking water carrying nutrients and oxygen to your cells. flushing bacteria from your bladder.aiding digestion.preventing constipation.''',
         timeout = 10
     )
-    time.sleep(60*60)
+    time.sleep(60*60) # this shows the msg after every 1 hour
